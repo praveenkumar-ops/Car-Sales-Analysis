@@ -41,7 +41,7 @@ This project simulates a real-world business intelligence scenario where a car d
 
 - `Car_Sales_Dashboard.pbix` – Power BI dashboard file  
 - `Car_Sales_Data.xlsx` – Raw and cleaned dataset  
-- `Mahesh_S_Car_Sales_Project_Dashboard.pdf` – Dashboard snapshot (PDF)  
+- `Praveen_S_Car_Sales_Project_Dashboard.pdf` – Dashboard snapshot (PDF)  
 - `README.md` – Project documentation  
 
 ---
